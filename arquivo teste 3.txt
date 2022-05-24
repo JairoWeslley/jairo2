@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 repositorio teste adasdasdsadassada
 
 alteracao na  branch ramo01
+=======
+repositorio teste 2
+
+kkkk
+to alterando 
+>>>>>>> 9be9c64e21cb959de120c8f5b343dfa3fd5ef488
